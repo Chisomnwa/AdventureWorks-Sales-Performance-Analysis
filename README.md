@@ -6,11 +6,11 @@ Adventure Works is a large multinational manufacturing company that produces and
 
 ## In this Sales Performance Analysis Report, I provided insights like:
 
-* The current market demand for our products and how does it vary by region or continent.
+* The current market demand for our products and how it varies by region or continent.
 
 * The current sales performance and how  it compare to the past performance and industry benchmarks.
 
-* The most loyal customers in terms sales purchased and orders made.
+* The most loyal customers in termstotal sales and orders made.
 
 ## Project Steps:
 
@@ -30,10 +30,15 @@ Adventure Works is a large multinational manufacturing company that produces and
 
 * Create measures
 
-*Data Visualization
+* Data Visualization
 
 * Publish to Power BI Service
 
 The database used for this project is a Microsoft product sample for an online transaction processing (OLTP) and would be a good one to work on. Working on the entire project phase would help you improve your data analysis skills.
 
-If you are aslo interested in working on it , visit [Wisabi Analytics](https://www.youtube.com/playlist?list=PLr3ML1zU90ceJRJyeOwRu8w8mqU0yybAu) Youtube Page and take the Power BI tutorial playlist, and the Power BI portfolio project at the end of it and you’ll thank me later.
+If you are aslo interested in working on it , visit [Wisabi Analytics](https://www.youtube.com/playlist?list=PLr3ML1zU90ceJRJyeOwRu8w8mqU0yybAu) Youtube Page and take the Power BI tutorial playlist, and the Power BI portfolio project at the end of it and you’ll be thankful you did.
+
+You can also interact with the interactive dashboard I designed at the end of this project [here](https://www.novypro.com/project/salesperformancedashboard).
+
+![Dashboard](https://github.com/Chisomnwa/10Alytics-Hackaton---Tackling-the-Health-Crisis-in-Africa/blob/main/10Alytics%20Hackaton%20Details_page-0001.jpg)
+
