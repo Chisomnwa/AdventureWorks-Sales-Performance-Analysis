@@ -39,3 +39,6 @@ The database used for this project is a Microsoft product sample for an online t
 If you are aslo interested in working on it , visit [Wisabi Analytics](https://www.youtube.com/playlist?list=PLr3ML1zU90ceJRJyeOwRu8w8mqU0yybAu) Youtube Page and take the Power BI tutorial playlist, and the Power BI portfolio project at the end of it and you’ll be thankful you did.
 
 You can also interact with the interactive dashboard I designed at the end of this project [here](https://www.novypro.com/project/salesperformancedashboard).
+
+![Dashboard](https://github.com/Chisomnwa/10Alytics-Hackaton---Tackling-the-Health-Crisis-in-Africa/blob/main/10Alytics%20Hackaton%20Details_page-0001.jpg)
+
