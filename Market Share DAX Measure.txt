@@ -1,0 +1,39 @@
+Market Share = 
+VAR current_sales = [Total Sales]
+var subcategory_sales = 
+    CALCULATE(
+        [Total Sales],
+        ALLSELECTED(dim_products_view[Product])
+    )
+var category_sales = 
+    CALCULATE(
+        [Total Sales],
+        ALLSELECTED(dim_products_view[SubCategory])
+    )
+
+var total_sales = 
+CALCULATE(
+    [Total Sales],
+    ALLSELECTED(dim_products_view[Category])
+    )
+
+var all_sales =
+CALCULATE(
+    [Total Sales],
+    ALLSELECTED(dim_products_view)
+    )
+
+var ratio_to_parent =
+  IF(
+      ISINSCOPE(dim_products_view[Product]),
+      DIVIDE(current_sales,all_sales),
+      IF(
+          ISINSCOPE(dim_products_view[SubCategory]),
+          DIVIDE(current_sales, category_sales),
+          IF(
+              ISINSCOPE(dim_products_view[Category]),
+              DIVIDE(current_sales, total_sales)
+          )
+      )
+)
+return ratio_to_parent
