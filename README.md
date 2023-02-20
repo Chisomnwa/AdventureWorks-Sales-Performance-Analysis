@@ -36,6 +36,6 @@ Adventure Works is a large multinational manufacturing company that produces and
 
 The database used for this project is a Microsoft product sample for an online transaction processing (OLTP) and would be a good one to work on. Working on the entire project phase would help you improve your data analysis skills.
 
-If you are aslo interested in working on it , visit [Wisabi Analytics](https://www.youtube.com/playlist?list=PLr3ML1zU90ceJRJyeOwRu8w8mqU0yybAu) Youtube Page and take the Power BI tutorial playlist, and the Power BI portfolio project at the end of it and you’ll be gratefulyou did.
+If you are aslo interested in working on it , visit [Wisabi Analytics](https://www.youtube.com/playlist?list=PLr3ML1zU90ceJRJyeOwRu8w8mqU0yybAu) Youtube Page and take the Power BI tutorial playlist, and the Power BI portfolio project at the end of it and you’ll be thankful you did.
 
 You can also interact with the interactive dashboard I designed at the end of this project [here](https://www.novypro.com/project/salesperformancedashboard).
