@@ -40,5 +40,5 @@ If you are aslo interested in working on it , visit [Wisabi Analytics](https://w
 
 You can also interact with the interactive dashboard I designed at the end of this project [here](https://www.novypro.com/project/salesperformancedashboard).
 
-![Dashboard](https://github.com/Chisomnwa/10Alytics-Hackaton---Tackling-the-Health-Crisis-in-Africa/blob/main/10Alytics%20Hackaton%20Details_page-0001.jpg)
+![Dashboard](https://github.com/Chisomnwa/AdventureWorks-Sales-Performance-Analysis/blob/Main/AdventureWorks%20Sales%20Performance%20Dashboard.jpg)
 
