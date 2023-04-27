@@ -1,6 +1,6 @@
 # Adventure Works Sales Performance Analysis
 
-I analyzed data from the Adventure Works database and conducted a Sales Performance Analysis.
+I analyzed data from the Adventure Works sale's data and conducted a Sales Performance Analysis.
 
 Adventure Works is a large multinational manufacturing company that produces and distributes bicycles, parts, and accessories for commercial markets in North America, Europe, and Asia. Additionally, Adventure works employ several regional sales teams throughout its market base.
 
